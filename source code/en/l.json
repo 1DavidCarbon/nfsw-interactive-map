@@ -1,8 +1,9 @@
 {
-	"venturabaygaraz":{
-		"label":"Garaż",
-		"popup":"Tutaj możesz zmienić <a href='http://nfszone.pl/articles.php?article_id=865' target='_blank'>samochód</a> lub poddać go <a href='http://nfszone.pl/articles.php?article_id=871' target='_blank'>modyfikacjom.</a>"
-	},
+	//orignal source code
+//	"venturabaygaraz":{
+//		"label":"Garaż",
+//		"popup":"Tutaj możesz zmienić <a href='http://nfszone.pl/articles.php?article_id=865' target='_blank'>samochód</a> lub poddać go <a href='http://nfszone.pl/articles.php?article_id=871' target='_blank'>modyfikacjom.</a>"
+//	},
 	"venturabayposterunekpolicji":{
 		"label":{
 			"LosSol":"Los Sol - posterunek policji",
@@ -129,6 +130,7 @@
 			"VenturaBay-widoknaocean":"Ventura Bay - widok na ocean",
 			"BishopRock-wzgorza":"Bishop Rock - wzgórza"
 		},
+		//Displays content 
 		"popup":{
 			"WeidCanyon-zapora":"",
 			"CrescentMountain-panorama":"",
